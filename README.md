@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IrtsaDevelopment&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=IrtsaDevelopment&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff">
 </p>
 <br />
   
@@ -16,9 +16,9 @@
     Current Projects
 </p>
 <p align="center">
-  <a href="https://github.com/IrtsaDevelopment/PyColor"><img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyColor&theme=transparent"></a>
-  <a href="https://github.com/IrtsaDevelopment/PyStatistics"><img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyStatistics&theme=transparent"></a>
+  <a href="https://github.com/IrtsaDevelopment/PyColor"><img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyColor&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
+  <a href="https://github.com/IrtsaDevelopment/PyStatistics"><img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyStatistics&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/IrtsaDevelopment/PyDiscord"><img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyDiscord&theme=transparent"></a>
+  <a href="https://github.com/IrtsaDevelopment/PyDiscord"><img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyDiscord&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
 </p>
