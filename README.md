@@ -8,7 +8,16 @@
 </p>
 <br />
   
-<p align="center">I don't have much to say, so got nothing much. Carry on!</p>
+<p align="center">
+Yes my sleep schedule is inconsistent.
+</p>
+<p align="center">
+No it is not a bug.
+</p>
+<br />
+<p align="center">
+My work schedule is that of Schrödinger's cat.
+</p>
 <br />
 <br />
 <br />
