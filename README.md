@@ -31,7 +31,7 @@ My work schedule is that of Schrödinger's cat.
 </p>
 <p align="center">
   <a href="https://github.com/IrtsaDevelopment/Steganopy"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=Steganopy&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
+  <a href="https://github.com/IrtsaDevelopment/pipall"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=pipall&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
   <a href="https://github.com/IrtsaDevelopment/PyStatistics"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyStatistics&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
-  <a href="https://github.com/IrtsaDevelopment/PyColor"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyColor&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
   <a href="https://github.com/IrtsaDevelopment/PyTermColor"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=PyTermColor&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
 </p>
