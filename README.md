@@ -20,6 +20,9 @@ My work schedule is that of Schrödinger's cat.
 </p>
 <br />
 <br />
+<p align="center">
+  <img src="https://github.com/irtsa-dev/PyZeroWidth/assets/139963912/1379add2-9353-40c5-8bd1-16653ebc62fb" height="125">
+</p>
 <br />
 <br />
 <br />
