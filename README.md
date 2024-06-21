@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/irtsa-dev/PyZeroWidth/assets/139963912/1379add2-9353-40c5-8bd1-16653ebc62fb" height="125">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IrtsaDevelopment&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&cache_seconds=14400">
 </p>
 <p align="center">
@@ -20,9 +23,6 @@ My work schedule is that of Schrödinger's cat.
 </p>
 <br />
 <br />
-<p align="center">
-  <img src="https://github.com/irtsa-dev/PyZeroWidth/assets/139963912/1379add2-9353-40c5-8bd1-16653ebc62fb" height="125">
-</p>
 <br />
 <br />
 <br />
