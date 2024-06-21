@@ -30,8 +30,8 @@ My work schedule is that of Schrödinger's cat.
     <b>Highlighted Projects</b>
 </p>
 <p align="center">
-  <a href="https://github.com/IrtsaDevelopment/conarn"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
-  <a href="https://github.com/IrtsaDevelopment/zwpy"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=zwpy&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
-  <a href="https://github.com/IrtsaDevelopment/Steganopy"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=Steganopy&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
-  <a href="https://github.com/IrtsaDevelopment/pipall"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=IrtsaDevelopment&repo=pipall&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
+  <a href="https://github.com/irtsa-dev/conarn"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
+  <a href="https://github.com/irtsa-dev/zwpy"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=zwpy&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
+  <a href="https://github.com/irtsa-dev/Steganopy"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=Steganopy&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
+  <a href="https://github.com/irtsa-dev/pipall"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=pipall&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
 </p>
