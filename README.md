@@ -4,6 +4,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irtsa-dev&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&cache_seconds=14400">
 </p>
+<br />
+  
+<p align="center">Yes my sleep schedule is inconsistent.</p>
+<p align="center">No it is not a bug.</p>
+<p align="center">My work schedule is that of Schrödinger's cat.</p>
+<br />
+<br />
+<br />
+  
+<h3 align="center">Social Links</h3>
 <p align="center">
   <a href="https://irtsa.dev/"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=webtrees&logoColor=black"></a>
   <a href="https://x.com/IrtsaDev"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"></a>
@@ -11,21 +21,13 @@
   <a href="mailto:irtsa.development@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <br />
-  
-<pre align="center">
-  Yes my sleep schedule is inconsistent.
-  No it is not a bug.
-  My work schedule is that of Schrödinger's cat.
-</pre>
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-
-  
+ 
 <h2 align="center">Highlighted Projects</h2>
 <p align="center">
   <a href="https://github.com/irtsa-dev/conarn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"></a>
