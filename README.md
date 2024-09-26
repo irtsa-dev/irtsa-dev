@@ -35,7 +35,7 @@ My work schedule is that of Schrödinger's cat.
 </p>
 <p align="center">
   <a href="https://github.com/irtsa-dev/conarn"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
-  <a href="https://github.com/irtsa-dev/eggcrafts"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=eggcrafts&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
   <a href="https://github.com/irtsa-dev/builtin-greyscript"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=builtin-greyscript&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
+  <a href="https://github.com/irtsa-dev/eggcrafts"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=eggcrafts&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
   <a href="https://github.com/irtsa-dev/termicol"><img width=400 height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=termicol&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff"></a>
 </p>
