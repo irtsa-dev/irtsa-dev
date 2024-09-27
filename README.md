@@ -2,7 +2,7 @@
   <img src="https://github.com/irtsa-dev/PyZeroWidth/assets/139963912/1379add2-9353-40c5-8bd1-16653ebc62fb" height="125">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irtsa-dev&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=irtsa-dev&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&hide_title=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtsa-dev&layout=compact&hide_border=true&theme=transparent&custom_title=Languages&title_color=ffffff">
 </p>
 <br />
