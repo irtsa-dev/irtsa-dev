@@ -1,34 +1,24 @@
 <p align="center">
   <img src="https://github.com/irtsa-dev/PyZeroWidth/assets/139963912/1379add2-9353-40c5-8bd1-16653ebc62fb" height="125">
+  Yes my sleep schedule is inconsistent.<br>
+  No it is not a bug.<br>
+  My work schedule is that of Schrödinger's cat.
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irtsa-dev&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&hide_title=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtsa-dev&layout=compact&hide_border=true&theme=transparent&custom_title=Languages&title_color=ffffff">
 </p>
 <br />
-<br />
-<br />
-<h3 align="center">Social Links</h3>
+<h3 align="center" style="flex-direction:column;">Social Links</h3>
 <p align="center">
-  <a href="https://irtsa.dev/"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=webtrees&logoColor=black"></a>
-  <a href="https://x.com/IrtsaDev"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://discord.com/users/809599842681749525"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:irtsa.development@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.com/users/809599842681749525"><img src="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img src="https://img.shields.io/badge/irtsa-7289DA?style=for-the-badge&logoColor=white"></a>
+  <a href="https://x.com/IrtsaDev"><img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white"><img src="https://img.shields.io/badge/IrtsaDev-black?style=for-the-badge&logoColor=white"></a>
+  <a href="mailto:irtsa.development@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"><img src="https://img.shields.io/badge/irtsa.development-D14836?style=for-the-badge&logoColor=white"></a>
 </p>
-<br />
-<p align="center">Yes my sleep schedule is inconsistent.</p>
-<p align="center">No it is not a bug.</p>
-<p align="center">My work schedule is that of Schrödinger's cat.</p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<h2 align="center">Highlighted Projects</h2>
+<h2></h2>
 <p align="center">
-  <a href="https://github.com/irtsa-dev/conarn"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2"></a>
-  <a href="https://github.com/irtsa-dev/bltings"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=bltings&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2"></a>
-  <a href="https://github.com/irtsa-dev/eggcrafts"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=eggcrafts&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2">
-<a href="https://github.com/irtsa-dev/Steganopy"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=Steganopy&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&description_lines_count=2"></a>
+  <a href="https://github.com/irtsa-dev/conarn"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=false&description_lines_count=2"></a>
+  <a href="https://github.com/irtsa-dev/bltings"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=bltings&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=false&description_lines_count=2"></a>
+  <a href="https://github.com/irtsa-dev/eggcrafts"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=eggcrafts&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=false&description_lines_count=2">
+<a href="https://github.com/irtsa-dev/Steganopy"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=Steganopy&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=false&description_lines_count=2"></a>
 </p>
