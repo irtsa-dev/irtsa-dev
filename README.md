@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtsa-dev&layout=compact&hide_border=true&theme=transparent&custom_title=Languages&title_color=ffffff">
 </p>
 <br />
-<h3 align="center" style="flex-direction:column;">Social Links - <a href="https://irtsa.dev">Website</a></h3>
+<h3 align="center" style="flex-direction:column;">Social Links - <a href="https://irtsa.dev" target="_blank" rel="noopener">Website</a></h3>
 <p align="center">
   <a href="https://discord.com/users/809599842681749525" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img src="https://img.shields.io/badge/irtsa-7289DA?style=for-the-badge&logoColor=white"></a>
   <a href="https://x.com/IrtsaDev" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white"><img src="https://img.shields.io/badge/IrtsaDev-black?style=for-the-badge&logoColor=white"></a>
