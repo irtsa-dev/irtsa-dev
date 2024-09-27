@@ -28,7 +28,7 @@
 <h2 align="center">Highlighted Projects</h2>
 <p align="center">
   <a href="https://github.com/irtsa-dev/conarn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"></a>
-  <a href="https://github.com/irtsa-dev/builtin-greyscript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=builtin-greyscript&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"></a>
+  <a href="https://github.com/irtsa-dev/bltings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=bltings&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"></a>
   <a href="https://github.com/irtsa-dev/eggcrafts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=eggcrafts&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"></a>
   <a href="https://github.com/irtsa-dev/termicol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=termicol&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"></a>
 </p>
