@@ -4,7 +4,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irtsa-dev&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&cache_seconds=14400">
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtsa-dev&layout=compact&hide_border=true&theme=transparent"></p>
+<br />
+<h3 align="center">Languages</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtsa-dev&layout=compact&hide_border=true&theme=transparent&hide_title=true"></p>
+<br />
+<br />
 <br />
 <br />
 <br />
