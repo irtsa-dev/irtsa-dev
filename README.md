@@ -17,8 +17,8 @@
 </p>
 <h2></h2>
 <p align="center">
+  <a href="https://github.com/irtsa-dev/somix"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=somix&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&description_lines_count=2">
   <a href="https://github.com/irtsa-dev/conarn"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=conarn&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&description_lines_count=2"></a>
   <a href="https://github.com/irtsa-dev/bltings"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=bltings&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&description_lines_count=2"></a>
-  <a href="https://github.com/irtsa-dev/eggcrafts"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=eggcrafts&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&description_lines_count=2">
   <a href="https://github.com/irtsa-dev/grsa"><img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=irtsa-dev&repo=grsa&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&description_lines_count=2"></a>
 </p>
